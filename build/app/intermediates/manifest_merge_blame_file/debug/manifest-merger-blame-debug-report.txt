@@ -12,14 +12,14 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-15-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:3:5-79
-15-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:3:22-76
+15-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:3:5-79
+15-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:3:22-76
 16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-16-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:4:5-81
-16-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:4:22-78
+16-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:4:5-81
+16-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:4:22-78
 17    <!-- Include required permissions for Google Maps API to run. -->
 18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 18-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nanbanvicky/.gradle/caches/transforms-2/files-2.1/c5de8972dacd649c27c247c9e16de3ac/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
@@ -33,28 +33,28 @@
 22-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nanbanvicky/.gradle/caches/transforms-2/files-2.1/c5de8972dacd649c27c247c9e16de3ac/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
 23
 24    <application
-24-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:5:4-44:19
+24-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:5:4-44:19
 25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 25-->[androidx.core:core:1.1.0] /Users/nanbanvicky/.gradle/caches/transforms-2/files-2.1/2e94107f30f39be366a17347c2bf100b/core-1.1.0/AndroidManifest.xml:24:18-86
 26        android:debuggable="true"
 27        android:icon="@mipmap/ic_launcher"
-27-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:7:9-43
+27-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:7:9-43
 28        android:label="flutter_gmaps" >
-28-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:6:9-38
+28-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:6:9-38
 29        <activity
-29-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:8:9-36:20
+29-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:8:9-36:20
 30            android:name="com.example.flutter_gmaps.MainActivity"
-30-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:9:13-41
+30-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:9:13-41
 31            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-31-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:12:13-163
+31-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:12:13-163
 32            android:hardwareAccelerated="true"
-32-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:13:13-47
+32-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:13:13-47
 33            android:launchMode="singleTop"
-33-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:10:13-43
+33-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:10:13-43
 34            android:theme="@style/LaunchTheme"
-34-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:11:13-47
+34-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:11:13-47
 35            android:windowSoftInputMode="adjustResize" >
-35-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:14:13-55
+35-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:14:13-55
 36
 37            <!--
 38                 Specifies an Android theme to apply to this Activity as soon as
@@ -63,11 +63,11 @@
 41                 to determine the Window background behind the Flutter UI.
 42            -->
 43            <meta-data
-43-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:19:13-22:17
+43-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:19:13-22:17
 44                android:name="io.flutter.embedding.android.NormalTheme"
-44-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:20:15-70
+44-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:20:15-70
 45                android:resource="@style/NormalTheme" />
-45-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:21:15-52
+45-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:21:15-52
 46            <!--
 47                 Displays an Android View that continues showing the launch screen
 48                 Drawable until Flutter paints its first frame, then this splash
@@ -76,21 +76,21 @@
 51                 Flutter's first frame.
 52            -->
 53            <meta-data
-53-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:28:13-31:17
+53-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:28:13-31:17
 54                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-54-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:29:15-79
+54-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:29:15-79
 55                android:resource="@drawable/launch_background" />
-55-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:30:15-61
+55-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:30:15-61
 56
 57            <intent-filter>
-57-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:32:13-35:29
+57-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:32:13-35:29
 58                <action android:name="android.intent.action.MAIN" />
-58-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:33:17-68
-58-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:33:25-66
+58-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:33:17-68
+58-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:33:25-66
 59
 60                <category android:name="android.intent.category.LAUNCHER" />
-60-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:34:17-76
-60-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:34:27-74
+60-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:34:17-76
+60-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:34:27-74
 61            </intent-filter>
 62        </activity>
 63        <!--
@@ -98,17 +98,17 @@
 65             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 66        -->
 67        <meta-data
-67-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:39:9-41:33
+67-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:39:9-41:33
 68            android:name="flutterEmbedding"
-68-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:40:13-44
+68-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:40:13-44
 69            android:value="2" />
-69-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:41:13-30
+69-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:41:13-30
 70        <meta-data
-70-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:42:9-43:73
+70-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:42:9-43:73
 71            android:name="com.google.android.geo.API_KEY"
-71-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:42:20-65
-72            android:value="AIzaSyBGF99Hc6spJt-LWUXDfDfx4l_4UmbIFek" />
-72-->/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/AndroidManifest.xml:43:16-71
+71-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:42:20-65
+72            android:value="AIzaSyBYZlT_qopmNHGNe3Emge876jeihAi-Cnw" />
+72-->/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/AndroidManifest.xml:43:16-71
 73        <!-- Needs to be explicitly declared on P+ -->
 74        <uses-library
 74-->[com.google.android.gms:play-services-maps:17.0.0] /Users/nanbanvicky/.gradle/caches/transforms-2/files-2.1/c5de8972dacd649c27c247c9e16de3ac/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nanbanvicky/Desktop/flutter_gmaps/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/nanbanvicky/Desktop/google_map_with_search/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/nanbanvicky/.gradle/caches/transforms-2/files-2.1/c5de8972dacd649c27c247c9e16de3ac/jetified-play-services-maps-17.0.0/res/values/values.xml",
@@ -78,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

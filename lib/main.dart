@@ -50,10 +50,73 @@ class _MyAppState extends State<MyApp> {
       theme: ThemeData(
         primaryColor: Colors.white,
       ),
-      home: MapScreen(latitudeData: latitudeData,longitudeData: longitudeData,initialCameraPosition: initialCameraPosition,),
+      home:
+      HomeScreen(),
+      // MapScreen(latitudeData: latitudeData,longitudeData: longitudeData,initialCameraPosition: initialCameraPosition,),
     );
   }
 }
+
+
+
+
+
+
+class HomeScreen extends StatefulWidget {
+  const HomeScreen({Key key}) : super(key: key);
+
+  @override
+  _HomeScreenState createState() => _HomeScreenState();
+}
+
+class _HomeScreenState extends State<HomeScreen> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: ListView(
+        children: [
+          TextField(),
+          Container(
+            height: 300,
+            child: GoogleMap(
+                mapType: MapType.normal,
+                myLocationEnabled: true,
+                initialCameraPosition: CameraPosition(target: LatLng(8.7642, 78.1348))),
+          )
+        ],
+      ),
+    );
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 class MapScreen extends StatefulWidget {
  final double latitudeData ;
@@ -241,3 +304,5 @@ class _MapScreenState extends State<MapScreen> {
     }
   }
 }
+
+

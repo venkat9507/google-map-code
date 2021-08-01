@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nanbanvicky/Desktop/flutter_gmaps/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/nanbanvicky/Desktop/google_map_with_search/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/nanbanvicky/Desktop/flutter_gmaps/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/Users/nanbanvicky/Desktop/google_map_with_search/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
